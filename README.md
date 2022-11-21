@@ -10,5 +10,6 @@ It captures demographic variables such as age, height, weight and place of birth
 the team played for, draft year and round. In addition, it has box score statistics such as games played, 
 average number of points, rebounds, assists, etc.
 
-Complex Spider/Radar plots:
+# Complex Spider/Radar plots:
+
 ![Picture2](https://user-images.githubusercontent.com/114693551/203083756-59f24271-b49d-4aaa-b090-351cbdca40ab.png)
