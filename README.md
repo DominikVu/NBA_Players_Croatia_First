@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/114693551/203084218-3f9698aa-0ae5-4b4e-8911-75264b039406.png)
 
-The analysis was made with the aim of exploring NBA Players (1996-22) database and finding the best Croatian players in selected time period!
+The analysis was made with the aim of exploring NBA Players (1996-22) database and finding the best Croatian players in selected time period, while using creative and awesome data vizualization techniques!
+
 # Normal Distribution of data in df 
 
 ![Picture1](https://user-images.githubusercontent.com/114693551/203083740-53deb58b-ac5f-409f-af7c-d71d0115d3be.png)
