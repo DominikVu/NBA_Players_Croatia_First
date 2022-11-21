@@ -15,7 +15,7 @@ average number of points, rebounds, assists, etc.
 
 ![newplot](https://user-images.githubusercontent.com/114693551/203141542-3d0f1426-2594-4c85-8dda-5269fa811d20.png)
 
-# Complex Spider/Radar plots:
+# Complex Spider/Radar plots for Croatian basketball legends:
 
 ![Picture2](https://user-images.githubusercontent.com/114693551/203083756-59f24271-b49d-4aaa-b090-351cbdca40ab.png)
 
