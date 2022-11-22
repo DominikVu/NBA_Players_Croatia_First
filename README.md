@@ -4,8 +4,6 @@
 
 The analysis was made with the aim of exploring NBA Players (1996-22) database and finding the best Croatian players in selected time period, while using creative and awesome data vizualization techniques!
 
-# Normal Distribution of data in df 
-
 ![Picture1](https://user-images.githubusercontent.com/114693551/203083740-53deb58b-ac5f-409f-af7c-d71d0115d3be.png)
 
 The data set contains over two decades of data on each player who has been part of an NBA teams' roster. 
